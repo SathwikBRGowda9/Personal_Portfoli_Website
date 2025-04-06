@@ -36,5 +36,5 @@ JavaScript (DOM Manipulation, Form Validation)
 
 🔗 Live Preview
 Click here to preview the site
-https://tiiny.host/?fpr=website10
+https://personalprotfoliowebsite.tiiny.site
 
