@@ -36,5 +36,5 @@ JavaScript (DOM Manipulation, Form Validation)
 
 🔗 Live Preview
 Click here to preview the site
-(file:///C:/Users/sathw/OneDrive/Desktop/HtmlProject/personal_portfolio_website/index.html)
+https://tiiny.host/?fpr=website10
 
