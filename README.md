@@ -1,11 +1,10 @@
 #  Personal_Portfolio_Website
 
-Title: Personal Portfolio Website 🌐
-Description:
-This is my personal portfolio website built using HTML5, CSS3, and Vanilla JavaScript. It showcases my projects, skills, resume, and ways to connect with me. The site is fully responsive and optimized for all devices. Designed with a clean UI and smooth user experience in mind.
+🌐 Personal_Portfolio_Website
+🔖 Title: Personal Portfolio Website
+A responsive and modern personal portfolio website built using HTML5, CSS3, and Vanilla JavaScript. It showcases my projects, skills, resume, and provides multiple ways to connect with me. Designed with a clean UI and smooth UX across all devices.
 
-Features:
-
+🚀 Features
 🧑‍💻 About Me Section
 
 💼 Projects Gallery with live demo links
@@ -14,18 +13,20 @@ Features:
 
 📄 Resume Download
 
-📬 Contact Form (with EmailJS or Formspree integration)
+📬 Contact Form (via EmailJS or Formspree)
 
 🌙 Light/Dark Mode Toggle (optional)
 
 📱 Fully Responsive Design
 
-Tech Stack:
-
+🛠️ Tech Stack
 HTML5
 
-CSS3 (Flexbox/Grid, Media Queries)
+CSS3 (Flexbox, Grid, Media Queries)
 
 JavaScript (DOM Manipulation, Form Validation)
 
-Live Preview: [HtmlProject/personal_portfolio_website/index.html]
+🔗 Live Preview
+Click here to preview the site
+(file:///C:/Users/sathw/OneDrive/Desktop/HtmlProject/personal_portfolio_website/index.html)
+
